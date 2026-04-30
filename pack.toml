@@ -1,0 +1,13 @@
+name = "LGV SMP 9"
+author = "PufferTeam"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "29c35c18fe57e735d847176690a403bc6b39832a492edf02426e39ccd3885dbd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

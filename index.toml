@@ -1,0 +1,263 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "274e723adc4aeedaccb847a456474ada7cb815c809271217b98a44e20bcff948"
+
+[[files]]
+file = "config/catalogue.properties"
+hash = "9355d649d8f41a9b3151cc721aae1def21ce6683dac181166ea230288f463d57"
+
+[[files]]
+file = "config/catalogue_favourites.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/connectivity.json"
+hash = "6b95731807c56659d67f5c439439493834d0c42ad33baf23ef60d45bb7e73202"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/cupboard.json"
+hash = "937698438af081495eebab187013f66570218e1443f35db8a2ca0b4cb6d9638b"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "1caebcf84defb6990a70f5651972b4fc646a20c58ade56410c7a8a4f13b1ad45"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "88d108915d48341964a34cda54b2abe1ca7494c24e4d5480d179961c6bade534"
+
+[[files]]
+file = "config/irisflw-client.toml"
+hash = "e3998cb0f9acbc3e5654e86194dbdeb5c86276da645b977f71a5f9954322b7f6"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "32bbaa6f573b612b92653fc2814365cd8aa423d39fcab4fa5dcfcb5f31121874"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+
+[[files]]
+file = "config/sable-client.toml"
+hash = "0abc8a8f2ce730e440521d4d3d2cb45ec475e9d5a0e01e17e74cfbd63a0bd26b"
+
+[[files]]
+file = "config/sable-common.toml"
+hash = "ff85fe8e0e93691961200fb4c8e910b44a99c6832a17d2ad564ed39ec3073713"
+
+[[files]]
+file = "config/simulated-client.toml"
+hash = "ae2634e6d32c7fb2e3cfe195f0d5c3a4bd2a1e073890d0abcc982065b41e8219"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "c0d15ac40a8e6cf7676ac24554e9a1797a55e9e69b9069516046d4433769dfe9"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "db49c4dde15db318eb25e8a43fa06992778f0e17b3a963fff5cbee35da11fb81"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "deece0fe0d29f2203a9699143a6209c451e91d7ecb799489c328b0d0fa31a90d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "98db626859ef290e5f7be9084d9f8a4b93ef441a8762ff08cebcf36308b36225"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "7c25c3078e3651fe936d6356c9bb4e5311e95bc102dbdc42b3f00f4467e1c27e"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "eabec45f6c8f35ff4348d5730339cf021ff81ccd74c8c19d61cd0c0862245039"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a0ace741bcbe76bfa3c8bfefd042a1aee7583b32039cb48aa381a8ace956a359"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "85d6b116578d44c074435499759f7be6090f1b2c131f129ae3127939591c1b78"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "01562e27f0c92ebf98eb6aaaace3c14fef18c734a6c65bda8101b8d3c640e12f"
+metafile = true
