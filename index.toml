@@ -110,7 +110,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1575697b3068bc58f91a531c2e12015469164f307eafe81e02d4ac91da4a0059"
+hash = "e50dde463aede6324d07a7fac8fe7bfc6488479eca82880f08fed87b9322ad81"
 
 [[files]]
 file = "config/irisflw-client.toml"
@@ -130,11 +130,11 @@ hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "791d6b2ba82f7aef94c7ebf419d2ec4103eb54901be38ba695f6e90fb6be7d53"
+hash = "83caf4aaff5de5f49d0b6633f8e7229019846d55a97854a8985fa8e9fe920dc2"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "6227d53a18db9f02493d0dd67d95500eff25efb7f3420a6268b30390ab2758eb"
+hash = "6091d6867f7a4ec5d15be5444f86b22024e4978e28c6e2c0758144c8a748bd53"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -201,6 +201,14 @@ file = "config/neoforge-server.toml"
 hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
+file = "config/nerb/compat/emi.yaml"
+hash = "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c"
+
+[[files]]
+file = "config/nerb/general.yaml"
+hash = "f61867aa5a2231e87f99a55e5e6d710e42865f1e7174409ccbbb61fc0ed8b36c"
+
+[[files]]
 file = "config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
@@ -254,7 +262,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "34767bd9f802829d7d3960220be6702d5ebcbe0772fd7b9f3a05d0e5527ab0ca"
+hash = "d8817c39a5e6cc7f753247e1b101e6a8b637947c914930929721778e83270a33"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -370,8 +378,18 @@ hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "58f5fe07285002a0039caa955dba666b19394067761ca13b905c5b2c4570e90c"
+metafile = true
+
+[[files]]
+file = "mods/byte.pw.toml"
+hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]
@@ -445,6 +463,11 @@ hash = "e34877bf9d74d3f71c69fdd47ce509fa473fadcdf88f87f79754a522cfa1c60b"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
@@ -482,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
 
 [[files]]
