@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "274e723adc4aeedaccb847a456474ada7cb815c809271217b98a44e20bcff948"
+hash = "9488cef17b53595d54008eaa83fce8d5c7c049a980a2092f5ede668359be4e76"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -74,7 +78,7 @@ hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
 file = "config/createaddition-common.toml"
-hash = "0441e89a64a3730006d3dde2e1fe81a25f9af4fcb1fd08c9f956b00e56c50650"
+hash = "fa7fa58baa6c943959df45c4cd28c15204a76c8590e161d9e392f11955677808"
 
 [[files]]
 file = "config/createlowheated-common.toml"
@@ -106,11 +110,31 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f3e0b289bf88a670afa490d6ca0b4f2e8bebf9ebbf4f2fc911fbdee10c57c1a8"
+hash = "1575697b3068bc58f91a531c2e12015469164f307eafe81e02d4ac91da4a0059"
 
 [[files]]
 file = "config/irisflw-client.toml"
-hash = "e3998cb0f9acbc3e5654e86194dbdeb5c86276da645b977f71a5f9954322b7f6"
+hash = "d4337f746eae3c32bbb0965992a7db1c3b25b01f104c4a47213a1f1f544f67da"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "791d6b2ba82f7aef94c7ebf419d2ec4103eb54901be38ba695f6e90fb6be7d53"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "6227d53a18db9f02493d0dd67d95500eff25efb7f3420a6268b30390ab2758eb"
 
 [[files]]
 file = "config/jei-server.toml"
@@ -122,7 +146,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "fa094c5597f37194d827ff73bb32631b9656b1a1fbe2180af83074d48325beaa"
+hash = "9ae1059f4375c4c07767e557f3db0eebb134a5f04b2d7f07fcee85e4ae3042db"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -149,10 +173,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "21d9fa62ca78fd1672c2314b274385efe723cf683567e4f2fa07f465d271fd83"
 
 [[files]]
-file = "config/jei/world/local/New_World/lookupHistory.json"
-hash = "bbb05a104dad31e185d3c7996d72016c1f2e00a65ecb58937b6573cfbd5adf29"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
@@ -163,6 +183,10 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "9bccbbcf53d936b3a53d2ef7a79f998f7e9a81922bf76cea1cba7799fa4ccffe"
+
+[[files]]
+file = "config/modnametooltip-client.toml"
+hash = "0f8e18dddd64f152496f83f6c29de278dadbb0252d4e7d1cb6d77467513c2697"
 
 [[files]]
 file = "config/neoforge-client.toml"
@@ -210,7 +234,31 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+hash = "4e64ca54fd14c86297e5cf90646e422c2b87cd2476dec1e3629a379bce3d50e5"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "34767bd9f802829d7d3960220be6702d5ebcbe0772fd7b9f3a05d0e5527ab0ca"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "22e86b77faa71556fc89be8b538cacb9d82cdcd110338ab75c10398777369d5d"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
@@ -337,6 +385,11 @@ hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -392,6 +445,11 @@ hash = "e34877bf9d74d3f71c69fdd47ce509fa473fadcdf88f87f79754a522cfa1c60b"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
@@ -407,13 +465,28 @@ hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
 
 [[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "9305ccc9a2850351a2b6fe52a771211cb2c63b4bd82b353bf1eebb4c4a598952"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b600e1df0e7886295fed43f898f41de99882ce8e119804361b78143d092fc5d4"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
 metafile = true
 
 [[files]]
@@ -424,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]

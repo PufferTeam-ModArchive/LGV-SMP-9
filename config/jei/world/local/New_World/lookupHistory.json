@@ -1,5 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"createaddition:gold_wire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createaddition:diamond_grit_sandpaper"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
