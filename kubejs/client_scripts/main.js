@@ -1,3 +1,3 @@
-// Visit the wiki for more info - https://kubejs.com/
-console.info('Hello, World! (Loaded client example script)')
-
+ItemEvents.modifyTooltips(event => {
+  event.add(['minecraft:ender_eye', "minecraft:end_portal_frame"], Text.red("The End is disabled!"))
+})

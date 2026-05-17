@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "9488cef17b53595d54008eaa83fce8d5c7c049a980a2092f5ede668359be4e76"
+hash = "1157f92ab59b1b8bd7e630cbce33790714e79176bb2f7624bc663633c525002b"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -94,7 +94,7 @@ hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
 
 [[files]]
 file = "config/flywheel-client.toml"
-hash = "1caebcf84defb6990a70f5651972b4fc646a20c58ade56410c7a8a4f13b1ad45"
+hash = "49414280350d38397bb99dc9f721e07e8d3d17920094455f08ae10079d460d9a"
 
 [[files]]
 file = "config/fml.toml"
@@ -110,7 +110,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "e50dde463aede6324d07a7fac8fe7bfc6488479eca82880f08fed87b9322ad81"
+hash = "cc0116b3627eac5ec318ccbcd05977db50a97ed73e9c6ed2951f4bdd873cddd3"
 
 [[files]]
 file = "config/irisflw-client.toml"
@@ -146,7 +146,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "9ae1059f4375c4c07767e557f3db0eebb134a5f04b2d7f07fcee85e4ae3042db"
+hash = "6c7215cb40a19ebaa9b78220013b6efe55a364e00bbd006d78f3eb72a1920827"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -242,7 +242,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "4e64ca54fd14c86297e5cf90646e422c2b87cd2476dec1e3629a379bce3d50e5"
+hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
 
 [[files]]
 file = "config/voicechat/category-volumes.properties"
@@ -354,11 +354,11 @@ hash = "d74828b37684fac4010f89b7708714fb4e667e36f673eff79c60e38c27ec8931"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
-hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+hash = "da83bf31ef8d080f7f4d59bd1222856d9ff67fe890a70e4772e19d9e44277c7e"
 
 [[files]]
 file = "kubejs/config/client.json"
-hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+hash = "caee90ea8f3b9e9a1dd3ba1d252c7bd927e6979644fb65842665edd24c2399d2"
 
 [[files]]
 file = "kubejs/config/common.json"
@@ -367,6 +367,10 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 [[files]]
 file = "kubejs/config/web_server.json"
 hash = "209d3eeb7058ecbbca6888b981c71a649b8de10d926732d9319428dd914ea0f3"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "47af27f8904780397c0223e28b191abb82f9d402e3da2d95c6e48b7b133fa2b7"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -415,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create-alloyed.pw.toml"
+hash = "35103a32ed96f1654af063f2a970ed31dc4b9c26caa7174c7efa4e5331c5235d"
 metafile = true
 
 [[files]]
