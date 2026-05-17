@@ -33,6 +33,10 @@ file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
 [[files]]
+file = "config/alloyed.toml"
+hash = "b3575dd01154bb9c146abd84facbdac202fb81b501f2ae24da4b9d347ccdd484"
+
+[[files]]
 file = "config/better-advanced-tooltips-client.toml"
 hash = "5b0da765c45397402cffe340f632544a8e740a767937f353a3a8206b6cdde0fa"
 
@@ -110,7 +114,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "cc0116b3627eac5ec318ccbcd05977db50a97ed73e9c6ed2951f4bdd873cddd3"
+hash = "210b6583ba3993d94b0f392e7ee0841bfcd8370a58f7323634407fb60eb14f16"
 
 [[files]]
 file = "config/irisflw-client.toml"
@@ -146,7 +150,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "6c7215cb40a19ebaa9b78220013b6efe55a364e00bbd006d78f3eb72a1920827"
+hash = "56bbb72ee13b446e220c3e0b45bc38e8d4ef7d62249dbee3104de1a8e631d895"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -243,6 +247,10 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 [[files]]
 file = "config/sodium-options.json"
 hash = "be40d116c4d2eff2e12e2ebd811a6c365955acbfed39361cef22cbd23e0dd74f"
+
+[[files]]
+file = "config/spears-common.toml"
+hash = "8b767c48aea89647c0216f594d4a8549722cb290e3356ecfbb37d4132c8bd3dc"
 
 [[files]]
 file = "config/voicechat/category-volumes.properties"
@@ -350,15 +358,15 @@ hash = "cdc9810dacc76ed30207d27b969f11aba2299ec6520434ea6836901635d8c12a"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
-hash = "853e4425cbf32b74ac10c32948b60b67c129fff1ac5c21a879db28cdea5950bf"
+hash = "6388ef2513e3a38cf4fe4236cfde7ac175a3538c5611b75508a44925bc0aaae2"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/minceraft.png"
-hash = "d74828b37684fac4010f89b7708714fb4e667e36f673eff79c60e38c27ec8931"
+hash = "18ef8fce1146052f6511d7af1bf5de8939392e8cc79790ac2665bc7ada598dfa"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "d74828b37684fac4010f89b7708714fb4e667e36f673eff79c60e38c27ec8931"
+hash = "18ef8fce1146052f6511d7af1bf5de8939392e8cc79790ac2665bc7ada598dfa"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
@@ -378,7 +386,7 @@ hash = "209d3eeb7058ecbbca6888b981c71a649b8de10d926732d9319428dd914ea0f3"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "47af27f8904780397c0223e28b191abb82f9d402e3da2d95c6e48b7b133fa2b7"
+hash = "024f4557b544d9b34f040df505831297e3b895894f9e88bb0c9e673711d305f0"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -472,6 +480,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "be0b067b18e6cac8362c40a70136adaed30048388e9eab28ae01ac6b3773a36c"
 metafile = true
 
 [[files]]

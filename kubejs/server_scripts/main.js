@@ -1,5 +1,6 @@
 ServerEvents.recipes(event => {
     event.remove({ output: 'minecraft:ender_eye' })
+    event.remove({ output: "alloyed:forge" })
 
     event.remove({ output: "createaddition:alternator" })
     event.custom({
