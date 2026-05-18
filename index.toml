@@ -37,6 +37,10 @@ file = "config/alloyed.toml"
 hash = "b3575dd01154bb9c146abd84facbdac202fb81b501f2ae24da4b9d347ccdd484"
 
 [[files]]
+file = "config/antiportals-common.toml"
+hash = "7e4ba267a336448751605a4578d90fa19160e494bc8524e7ec93a6301043ac8f"
+
+[[files]]
 file = "config/better-advanced-tooltips-client.toml"
 hash = "5b0da765c45397402cffe340f632544a8e740a767937f353a3a8206b6cdde0fa"
 
@@ -114,7 +118,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "210b6583ba3993d94b0f392e7ee0841bfcd8370a58f7323634407fb60eb14f16"
+hash = "c6ec266eb8a02cbecd5ca5636b005ec12784c832a470a5284bfa128a222ad7ad"
 
 [[files]]
 file = "config/irisflw-client.toml"
@@ -270,7 +274,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "d8817c39a5e6cc7f753247e1b101e6a8b637947c914930929721778e83270a33"
+hash = "b9a5ccbca832847c0231647740cc98b2beb5e4147d322ddff5f08b1582747940"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -386,7 +390,7 @@ hash = "209d3eeb7058ecbbca6888b981c71a649b8de10d926732d9319428dd914ea0f3"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "024f4557b544d9b34f040df505831297e3b895894f9e88bb0c9e673711d305f0"
+hash = "2a72f400e5e6a9357058c8d304d31c9fc4d44a546c08b1b9b969421a36562a12"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -395,6 +399,11 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
+metafile = true
+
+[[files]]
+file = "mods/antiportals.pw.toml"
+hash = "7ee099f2ad76349db6e5092ef285c461275931dbdfa15812fd659bca4d4b8480"
 metafile = true
 
 [[files]]

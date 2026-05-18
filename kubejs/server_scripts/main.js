@@ -1,5 +1,32 @@
+const colors = [
+    "white",
+    "light_gray",
+    "gray",
+    "black",
+    "brown",
+    "red",
+    "orange",
+    "yellow",
+    "lime",
+    "green",
+    "cyan",
+    "light_blue",
+    "blue",
+    "purple",
+    "magenta",
+    "pink"
+];
+
+ServerEvents.tags('item', event => {
+    for (let color of colors) {
+        let dyes = event.get(`c:dyes/${color}`).getObjectIds()
+        dyes.forEach(dye => {
+            event.add(`c:${color}_dyes`, dye)
+        })
+    }
+})
+
 ServerEvents.recipes(event => {
-    event.remove({ output: 'minecraft:ender_eye' })
     event.remove({ output: "alloyed:forge" })
 
     event.remove({ output: "createaddition:alternator" })
@@ -200,6 +227,114 @@ ServerEvents.recipes(event => {
         "result": {
             "count": 1,
             "id": "aeronautics:adjustable_burner"
+        }
+    })
+
+    event.custom({
+        "type": "minecraft:crafting_shapeless",
+        "category": "redstone",
+        "ingredients": [
+            {
+                "item": "minecraft:dried_kelp_block"
+            },
+            {
+                "tag": "minecraft:wooden_slabs"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "id": "interiors:kelp_seat"
+        }
+    })
+
+    event.custom({
+        "type": "minecraft:crafting_shapeless",
+        "category": "redstone",
+        "ingredients": [
+            {
+                "tag": "minecraft:wooden_slabs"
+            },
+            {
+                "tag": "minecraft:wooden_slabs"
+            },
+            {
+                "item": "minecraft:dried_kelp_block"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "id": "interiors:kelp_floor_chair"
+        }
+    })
+
+    event.custom({
+        "type": "minecraft:crafting_shapeless",
+        "category": "redstone",
+        "ingredients": [
+            {
+                "tag": "minecraft:wooden_slabs"
+            },
+            {
+                "tag": "minecraft:planks"
+            },
+            {
+                "item": "minecraft:dried_kelp_block"
+            }
+        ],
+        "result": {
+            "count": 1,
+            "id": "interiors:kelp_chair"
+        }
+    })
+
+    event.custom({
+        "type": "minecraft:crafting_shapeless",
+        "category": "redstone",
+        "ingredients": [
+            {
+                "tag": "minecraft:wooden_slabs"
+            },
+            {
+                "item": "interiors:kelp_seat"
+            },
+        ],
+        "result": {
+            "count": 1,
+            "id": "interiors:kelp_floor_chair"
+        }
+    })
+
+    event.custom({
+        "type": "minecraft:crafting_shapeless",
+        "category": "redstone",
+        "ingredients": [
+            {
+                "tag": "minecraft:planks"
+            },
+            {
+                "item": "interiors:kelp_seat"
+            },
+        ],
+        "result": {
+            "count": 1,
+            "id": "interiors:kelp_chair"
+        }
+    })
+
+    event.custom({
+        "type": "minecraft:crafting_shapeless",
+        "category": "redstone",
+        "ingredients": [
+            {
+                "tag": "minecraft:wooden_slabs"
+            },
+            {
+                "item": "interiors:kelp_floor_chair"
+            },
+        ],
+        "result": {
+            "count": 1,
+            "id": "interiors:kelp_chair"
         }
     })
 
